@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajput204
+- 👋 Hi, I’m Aditya kumar
 - 👀 I’m interested in ...web developmenet and python programming
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...?
